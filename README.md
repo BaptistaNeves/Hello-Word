@@ -1,2 +1,5 @@
 # Hello-Word
 Começando minha jornada no github
+
+
+Conheço HTML, CSS E JAVASCRIPT E ACTUALMENTE ESTOU APRENDENDO PHP E MYSQL, TAMBÉM TENHO CONHECIMENTOS EM C#.
